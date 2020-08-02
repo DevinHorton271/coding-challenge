@@ -1,0 +1,9 @@
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/devin/revature_dotnet/coding-challenges/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
