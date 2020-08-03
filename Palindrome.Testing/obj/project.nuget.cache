@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wg7yfBk0N9nPyTzclzmCAs0UIWscf6tGieiYNakJ8ejU6mSJ6g7V4RF+nnz4Ffv7jkUO7uMzcQz7pX0VL4RjqQ==",
+  "dgSpecHash": "5eyAMRHWTsbecW03QetZKYlETl+8blO7f71LOyA8YhrRxiJ42/d3mkbtJG0XQB2b//ZoQA9kTWU+/TJtbfwwDw==",
   "success": true,
-  "projectFilePath": "/home/devin/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Testing/Palindrome.Testing.csproj",
+  "projectFilePath": "/home/devin/revature_dotnet/coding-challenges/Palindrome.Testing/Palindrome.Testing.csproj",
   "expectedPackageFiles": [
     "/home/devin/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/home/devin/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

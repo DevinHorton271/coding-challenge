@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Palindrome.Domain\Palindrome.Domain.csproj" />
+    <ProjectReference Include="..\Palindrome.Client\Palindrome.Client.csproj" />
   </ItemGroup>
 
 </Project>
